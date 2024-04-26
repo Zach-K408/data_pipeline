@@ -4,4 +4,4 @@ The ufc data set was sourced from kaggle.com and has a public domain licence. Th
 
 <img src ="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" width="100px">
 
-dataset --> https://www.kaggle.com/datasets/rajeevw/ufcdata# data_pipeline
+dataset --> https://www.kaggle.com/datasets/rajeevw/ufcdata#
